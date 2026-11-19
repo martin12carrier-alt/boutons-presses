@@ -1,6 +1,6 @@
 # Boutons Pressés
 
-Petit jeu Android : des boutons tombent du haut de l'écran, touche-les avant qu'ils sortent en bas !
+Petit jeu Android : des boutons tombent du haut de l'écran. Touche les **verts** avant qu'ils sortent en bas… mais surtout **pas les rouges** !
 La partie dure **1 minute** et accélère jusqu'à la fin.
 
 ## 📲 Télécharger
@@ -20,7 +20,8 @@ Ou scanne ce QR code avec ton téléphone :
 
 ## Règles
 
-- **+10** par bouton touché, multiplié par le combo (x2 tous les 5 touchés d'affilée, jusqu'à x4)
-- **−5** par bouton raté
+- 🟢 **+10** par bouton vert touché, multiplié par le combo (x2 tous les 5 touchés d'affilée, jusqu'à x4)
+- 🔴 **−10** si tu touches un bouton rouge (laisse-les passer, ça ne coûte rien)
+- **−5** par bouton vert raté
 - **−2** pour un toucher dans le vide
 - Bats ton record !
