@@ -1,9 +1,10 @@
 # Jeux Marty
 
-Petite appli Android avec deux jeux :
+Petite appli Android avec trois jeux :
 
 - 🟢 **Boutons Pressés** : touche les boutons verts qui tombent avant qu'ils sortent en bas… mais surtout pas les rouges ! 1 minute, et ça accélère.
 - 🔤 **Mot Flash** : un carré révèle un à un les mots cachés d'une grille. Quand il s'arrête, tape le dernier mot affiché ! 30 niveaux au choix, de 1 à 5 mots par seconde, sur une grille qui s'allonge jusqu'à 8 lignes.
+- 🤸 **Saute-Poteau** : ton bonhomme saute de case en case pour monter. Il ne peut pas traverser le poteau du milieu : pour changer de côté, fais-le sortir par un bord de l'écran, il revient par l'autre !
 
 ## 📲 Télécharger
 
@@ -39,3 +40,10 @@ Ou scanne ce QR code avec ton téléphone :
 - La grille a 3 colonnes et s'allonge de 3 à 8 lignes
 - Dans une grille, les mots ont tous à peu près la même longueur (2 lettres d'écart au maximum)
 - Niveau raté ? Tu le rejoues avec de nouveaux mots. Accents et majuscules ne comptent pas.
+
+## Règles de Saute-Poteau
+
+- Le bonhomme saute tout seul ; garde le doigt à gauche ou à droite de l'écran pour le diriger
+- Il ne peut pas traverser le poteau du milieu : passe par le bord de l'écran pour changer de côté
+- Ton score = la plus haute case atteinte. Si tu tombes en bas de l'écran, c'est perdu !
+- Attention aux cases bleues qui bougent (dès la case 25) et aux cases marron qui cassent (dès la case 50)
