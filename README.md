@@ -3,7 +3,7 @@
 Petite appli Android avec deux jeux :
 
 - 🟢 **Boutons Pressés** : touche les boutons verts qui tombent avant qu'ils sortent en bas… mais surtout pas les rouges ! 1 minute, et ça accélère.
-- 🔤 **Mot Flash** : un carré révèle les mots cachés d'une grille 3x3, de plus en plus vite. Quand il s'arrête, tape le dernier mot affiché !
+- 🔤 **Mot Flash** : un carré révèle un à un les mots cachés d'une grille 3x3. Quand il s'arrête, tape le dernier mot affiché ! 10 niveaux, de 1 à 3 mots par seconde.
 
 ## 📲 Télécharger
 
@@ -31,6 +31,7 @@ Ou scanne ce QR code avec ton téléphone :
 ## Règles de Mot Flash
 
 - Chaque case de la grille 3x3 cache un mot
-- Un carré saute au hasard de case en case et révèle les mots, de plus en plus vite
+- Un carré passe sur les cases dans l'ordre (de gauche à droite, de haut en bas) et révèle les mots
 - Quand il s'arrête, tout se cache : tape le dernier mot affiché
-- 5 manches, chacune plus rapide. Accents et majuscules ne comptent pas.
+- 10 niveaux : 1 mot par seconde au niveau 1, jusqu'à 3 mots par seconde au niveau 10
+- Niveau raté ? Tu le rejoues avec de nouveaux mots. Accents et majuscules ne comptent pas.
