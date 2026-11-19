@@ -3,7 +3,7 @@
 Petite appli Android avec deux jeux :
 
 - 🟢 **Boutons Pressés** : touche les boutons verts qui tombent avant qu'ils sortent en bas… mais surtout pas les rouges ! 1 minute, et ça accélère.
-- 🔤 **Mot Flash** : un carré révèle un à un les mots cachés d'une grille. Quand il s'arrête, tape le dernier mot affiché ! 10 niveaux, de 1 à 3 mots par seconde, sur une grille qui s'allonge jusqu'à 6 lignes.
+- 🔤 **Mot Flash** : un carré révèle un à un les mots cachés d'une grille. Quand il s'arrête, tape le dernier mot affiché ! 30 niveaux au choix, de 1 à 5 mots par seconde, sur une grille qui s'allonge jusqu'à 8 lignes.
 
 ## 📲 Télécharger
 
@@ -34,7 +34,8 @@ Ou scanne ce QR code avec ton téléphone :
 - Un carré passe sur les cases dans l'ordre (de gauche à droite, de haut en bas) et révèle les mots
 - À chaque nouveau passage sur une case, le mot change
 - Au bout de 5 à 20 secondes (au hasard), il s'arrête et tout se cache : tape le dernier mot affiché
-- 10 niveaux : 1 mot par seconde au niveau 1, jusqu'à 3 mots par seconde au niveau 10
-- La grille a 3 colonnes et s'allonge : 3 lignes, puis 4 au niveau 3, 5 au niveau 6 et 6 au niveau 9
+- 30 niveaux, tous accessibles : choisis celui par lequel tu veux commencer
+- 1 mot par seconde au niveau 1, 3 au niveau 10, jusqu'à 5 mots par seconde au niveau 30
+- La grille a 3 colonnes et s'allonge de 3 à 8 lignes
 - Dans une grille, les mots ont tous à peu près la même longueur (2 lettres d'écart au maximum)
 - Niveau raté ? Tu le rejoues avec de nouveaux mots. Accents et majuscules ne comptent pas.
